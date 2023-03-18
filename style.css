@@ -92,6 +92,9 @@ aside img {
     left: 40px;
     position: relative;
 }
+aside img:hover{
+    width: 280px;
+}
 footer {
     box-sizing: border-box;
     padding: 20px 0;
